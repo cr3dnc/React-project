@@ -1,0 +1,11 @@
+.usersPhoto{
+    width: 200px;
+    height: 200px;
+}
+.pages{
+    margin-right: 20px;
+}
+.selectedPage{
+    font-weight: bold;
+    margin-right: 20px;
+}
